@@ -6,7 +6,7 @@
 
 **B.Tech Computer Science | MERN · MEAN · Java Specialist**
 
-[📧 Email](mailto:vikashraj010303@gmail.com) • [💼 LinkedIn](https://linkedin.com/in/vikash-rajput-788838317) • [🐙 GitHub](https://github.com/VikashRaj-cmd) • [🌐 Portfolio](https://vikashraj.netlify.app) • [📱 +91 7017583773](tel:+917017583773)
+[📧 Email](mailto:vikashraj010303@gmail.com) • [💼 LinkedIn](https://linkedin.com/in/vikash-rajput-788838317) • [🐙 GitHub](https://github.com/VikashRaj-cmd) • [🌐 Portfolio](https://vikash-portfolio0.netlify.app/) • [📱 +91 7017583773](tel:+917017583773)
 
 📍 **Sirsaganj, India**
 
@@ -121,7 +121,7 @@ JDBC • JSP • Servlet • Spring Framework • Apache Tomcat • Maven
 - JSON parsing, location services, API retry logic, state management, error handling
 - Responsive UI across Android and iOS with clean architecture
 
-### **[Personal Portfolio](https://vikashraj.netlify.app)**
+### **[Personal Portfolio](https://vikash-portfolio0.netlify.app/)**
 > React.js | Tailwind CSS | Framer Motion | Netlify
 
 - Fully responsive portfolio deployed on Netlify with smooth animations
@@ -177,7 +177,7 @@ JDBC • JSP • Servlet • Spring Framework • Apache Tomcat • Maven
 
 ### **💼 Professional Training**
 ✅ **JAVA Project Bootcamp** – LetsUpgrade  
-✅ **Software Engineering Job Simulation** ��� Forage (JP Morgan Chase & Co.)
+✅ **Software Engineering Job Simulation** – Forage (JP Morgan Chase & Co.)
 
 ### **👥 Co-curricular Activities**
 ✅ Active Member – **Errors Web Development Club**  
@@ -231,7 +231,7 @@ JDBC • JSP • Servlet • Spring Framework • Apache Tomcat • Maven
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikash-rajput-788838317)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VikashRaj-cmd)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white)](https://vikashraj.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white)](https://vikash-portfolio0.netlify.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikashraj010303@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VikashRaj-cmd)
 

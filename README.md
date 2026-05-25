@@ -2,9 +2,11 @@
 
 <div align="center">
 
-**Full-Stack Developer | B.Tech Computer Science | MERN & Java Specialist**
+**Software Developer | SDE | Full-Stack Developer | ML & Data Analyst**
 
-[📧 Email](mailto:vikashraj010303@gmail.com) • [💼 LinkedIn](https://linkedin.com/in/vikash-rajput-788838317) • [🐙 GitHub](https://github.com/VikashRaj-cmd) • [📱 +91 7017583773](tel:+917017583773)
+**B.Tech Computer Science | MERN · MEAN · Java Specialist**
+
+[📧 Email](mailto:vikashraj010303@gmail.com) • [💼 LinkedIn](https://linkedin.com/in/vikash-rajput-788838317) • [🐙 GitHub](https://github.com/VikashRaj-cmd) • [🌐 Portfolio](https://vikashraj.netlify.app) • [📱 +91 7017583773](tel:+917017583773)
 
 📍 **Sirsaganj, India**
 
@@ -14,11 +16,11 @@
 
 ## 🚀 About Me
 
-Enthusiastic **Computer Science undergraduate** with strong foundations in **full-stack web development**, **mobile development**, and **software engineering**. Currently pursuing **B.Tech in CSE at Parul University** (CGPA: **7.94**).
+Enthusiastic **Computer Science undergraduate** (7th sem, CGPA: 7.94) with strong foundations in **software development**, **full-stack web development**, **backend engineering**, **mobile development**, and **software engineering**. Currently pursuing **B.Tech in CSE at Parul University**, expected graduation **May 2027**.
 
-Seeking **internship or entry-level opportunities** to leverage expertise in **MERN/MEAN stacks**, **Java enterprise technologies**, **cloud platforms (AWS/Azure)**, and **machine learning** to build scalable, efficient software solutions.
+Seeking **internship or entry-level opportunities** as a **Software Developer/SDE** to leverage expertise in **MERN/MEAN stacks**, **Java enterprise technologies**, **cloud platforms (AWS/Azure)**, **data analysis**, **machine learning**, and **system design** to build scalable, efficient, and innovative software solutions.
 
-**💡 Passionate about:** Problem-solving • System Design • Modern Web Technologies • Cloud Architecture • Collaborative Development
+**💡 Passionate about:** Problem-solving • System Design • Modern Web Technologies • Cloud Architecture • Collaborative Development • Clean Code • DSA & Algorithms
 
 ---
 
@@ -29,6 +31,7 @@ Seeking **internship or entry-level opportunities** to leverage expertise in **M
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### **Frontend Development**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -51,7 +54,6 @@ Seeking **internship or entry-level opportunities** to leverage expertise in **M
 ### **Mobile Development**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -59,6 +61,12 @@ Seeking **internship or entry-level opportunities** to leverage expertise in **M
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+### **Machine Learning & Data Science**
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
 ### **Tools & Technologies**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -68,14 +76,8 @@ Seeking **internship or entry-level opportunities** to leverage expertise in **M
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### **Machine Learning & Data Science**
-![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-
 ### **Java Ecosystem**
-- JDBC • JSP • Servlet • Spring Framework • Spring Boot • Apache Tomcat • Maven
+JDBC • JSP • Servlet • Spring Framework • Apache Tomcat • Maven
 
 ---
 
@@ -83,16 +85,46 @@ Seeking **internship or entry-level opportunities** to leverage expertise in **M
 
 | **Area** | **Details** |
 |----------|-----------|
-| **Full-Stack Development** | MERN Stack • MEAN Stack • Python (Flask, Django, FastAPI) • Java (Spring Boot, JSP, Servlet) |
-| **Problem Solving** | **200+ LeetCode Problems** • Algorithm Optimization • DSA Implementation |
-| **Data Structures & Algorithms** | Advanced DSA • Time/Space Complexity • Competitive Programming |
-| **Machine Learning** | ML Pipeline • Data Analysis • Predictive Models • Scikit-learn • Pandas • NumPy |
-| **Software Engineering** | SDLC • Design Patterns • UML Diagrams • Agile Methodologies • Software Testing |
-| **Cloud Technologies** | AWS Certified • Azure Certified • Hands-on Cloud Infrastructure • Deployment Pipelines |
-| **Mobile Development** | Cross-platform Apps (Flutter) • Native Android (Android Studio) • Dart Programming |
-| **Database Design** | DBMS Concepts • SQL Optimization • NoSQL Architectures • MongoDB • MySQL |
-| **Operating Systems** | Linux Administration • OS Concepts • Threading • Process Management |
-| **Computer Networking** | OSI Model • TCP/IP • Network Protocols • Networking Fundamentals |
+| **Software Development & SDE** | System Design • SDLC • Design Patterns • Code Quality • Performance Optimization • Software Testing |
+| **Full-Stack Development** | MERN Stack • MEAN Stack • Python (Flask, Django, FastAPI) • Java (Spring Boot, JSP, Servlet) • JWT Auth • REST APIs |
+| **Problem Solving & DSA** | **200+ LeetCode Problems** • Algorithm Optimization • Advanced DSA • Time/Space Complexity • Competitive Programming |
+| **Data Structures & Algorithms** | Arrays • Strings • Trees • Graphs • Dynamic Programming • Sorting & Searching • Linked Lists |
+| **Machine Learning & Data Analytics** | ML Pipeline • Data Analysis • Predictive Models • Feature Engineering • Data Visualization • Scikit-learn • Pandas • NumPy |
+| **Backend Development** | REST API Design • Microservices • Database Optimization • Authentication & Authorization • API Security |
+| **Cloud Technologies** | AWS Certified • Azure Certified • Hands-on Cloud Infrastructure • Deployment Pipelines • DevOps Basics |
+| **Mobile Development** | Cross-platform Apps (Flutter) • Native Android (Android Studio) • Dart Programming • Mobile UI/UX |
+| **Database Design** | DBMS Concepts • SQL Optimization • NoSQL Architectures • MongoDB • MySQL • Database Modeling |
+| **Operating Systems & Networking** | Linux Administration • OS Concepts • Threading • Process Management • OSI Model • TCP/IP • Network Protocols |
+
+---
+
+## 📌 Featured Projects
+
+### **[Aethron — AI-Powered Learning Assistant](https://github.com/VikashRaj-cmd/MEARN-Projects/tree/main/Aethron)**
+> MERN Stack | JWT Auth | Vercel + Render Deployment | AI API Integration
+
+- Full-stack AI learning platform with **deployed** frontend on Vercel, backend on Render
+- JWT authentication, protected REST API routes, modular Express/MongoDB backend
+- AI API integration for interactive Q&A and personalized content delivery
+
+### **[StackForge — Issue Tracking Platform](https://github.com/VikashRaj-cmd/stackforge)**
+> MEAN Stack | Angular 21 | MongoDB Atlas | JWT | Role-Based Access Control
+
+- Jira-inspired bug and issue tracker built with Angular 21, Node.js, Express, MongoDB Atlas
+- JWT auth, role-based route protection, pagination, filtering, centralized error handling
+- Modular MVC backend architecture for scalable project collaboration
+
+### **[Mausam — Weather Forecasting App](https://github.com/VikashRaj-cmd/Flutter-App/tree/main/Mausam)**
+> Flutter | Dart | OpenWeather API | Cross-Platform Mobile
+
+- Cross-platform mobile app with real-time weather via OpenWeather API
+- JSON parsing, location services, API retry logic, state management, error handling
+- Responsive UI across Android and iOS with clean architecture
+
+### **[Personal Portfolio](https://vikashraj.netlify.app)**
+> React.js | Tailwind CSS | Framer Motion | Netlify
+
+- Fully responsive portfolio deployed on Netlify with smooth animations
 
 ---
 
@@ -130,7 +162,7 @@ Seeking **internship or entry-level opportunities** to leverage expertise in **M
 
 ## 🏆 Achievements & Certifications
 
-### **🥇 Competitions**
+### **🥇 Competitions & Events**
 ✅ **Vadodara Hackathon 6.0** Participant (2025)
 
 ### **☁️ Cloud Certifications**
@@ -138,16 +170,16 @@ Seeking **internship or entry-level opportunities** to leverage expertise in **M
 ✅ **AWS Practitioner Track** – In Progress  
 ✅ **Microsoft Azure** – Fundamentals & Cloud Services
 
-### **🔒 Cybersecurity & AI**
-✅ **Introduction to Cyber Security** – Cisco Networking Academy  
+### **🤖 AI, Cybersecurity & Data**
 ✅ **AI Fundamentals** – IBM SkillsBuild & Cisco  
+✅ **Introduction to Cyber Security** – Cisco Networking Academy  
 ✅ **NPTEL Elite** – Computer Networks & Internet Protocol (IIT Kharagpur)
 
 ### **💼 Professional Training**
 ✅ **JAVA Project Bootcamp** – LetsUpgrade  
-✅ **Software Engineering Job Simulation** – Forage (JP Morgan Chase & Co.)
+✅ **Software Engineering Job Simulation** ��� Forage (JP Morgan Chase & Co.)
 
-### **🎓 Co-curricular Activities**
+### **👥 Co-curricular Activities**
 ✅ Active Member – **Errors Web Development Club**  
 ✅ Active Member – **Coding Club** at Parul University
 
@@ -160,11 +192,11 @@ Seeking **internship or entry-level opportunities** to leverage expertise in **M
 | **Problem Solving** | **Team Collaboration** | **Time Management** |
 |:--:|:--:|:--:|
 | Analytical approach to complex challenges | Effective communication & cooperation | Efficient prioritization |
-| 200+ LeetCode problems | Active in dev communities | Deadline adherence |
+| 200+ LeetCode problems solved | Active in dev communities | Deadline adherence |
 
 | **Adaptability** | **Ownership Mindset** | **Technical Leadership** |
 |:--:|:--:|:--:|
-| Quick learner in dynamic environments | Committed to quality | Mentor & Knowledge Sharer |
+| Quick learner in dynamic environments | Committed to code quality | Mentor & Knowledge Sharer |
 | Embraces new technologies | Proactive problem solver | Community contributor |
 
 </div>
@@ -185,11 +217,11 @@ Seeking **internship or entry-level opportunities** to leverage expertise in **M
 
 ## 🎯 Current Focus
 
-- 🔭 **Working on:** AI-powered learning platforms with full-stack deployment
-- 🌱 **Learning:** Advanced system design & microservices architecture
-- 👯 **Open to:** Collaborating on innovative web & mobile projects
-- 💬 **Ask me about:** React, Node.js, Spring Boot, Flutter, Cloud Technologies, DSA, ML
-- ⚡ **Fun fact:** Love writing clean code and solving 200+ LeetCode problems! 💪
+- 🔭 **Working on:** AI-powered learning platforms with full-stack deployment & system design
+- 🌱 **Learning:** Advanced system design • Microservices architecture • Docker • Socket.io
+- 👯 **Open to:** Collaborating on innovative web, mobile, and data science projects
+- 💬 **Ask me about:** React • Node.js • Angular • Spring Boot • Flutter • AWS • DSA • ML & Data Analytics
+- ⚡ **Fun fact:** Love writing clean, optimized code and solving 200+ LeetCode problems! 💪
 
 ---
 
@@ -199,6 +231,7 @@ Seeking **internship or entry-level opportunities** to leverage expertise in **M
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikash-rajput-788838317)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VikashRaj-cmd)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white)](https://vikashraj.netlify.app)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikashraj010303@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VikashRaj-cmd)
 
@@ -210,7 +243,9 @@ Seeking **internship or entry-level opportunities** to leverage expertise in **M
 
 ### 🎯 **Actively Seeking Internships & Entry-Level Opportunities**
 
-### **In Full-Stack Development | Mobile Development | Cloud Technologies**
+### **As Software Developer / SDE / Full-Stack Developer**
+
+### **In Web Development | Mobile Development | Cloud Technologies | ML & Data Analytics**
 
 ---
 

@@ -98,36 +98,6 @@ JDBC • JSP • Servlet • Spring Framework • Apache Tomcat • Maven
 
 ---
 
-## 📌 Featured Projects
-
-### **[Aethron — AI-Powered Learning Assistant](https://github.com/VikashRaj-cmd/MEARN-Projects/tree/main/Aethron)**
-> MERN Stack | JWT Auth | Vercel + Render Deployment | AI API Integration
-
-- Full-stack AI learning platform with **deployed** frontend on Vercel, backend on Render
-- JWT authentication, protected REST API routes, modular Express/MongoDB backend
-- AI API integration for interactive Q&A and personalized content delivery
-
-### **[StackForge — Issue Tracking Platform](https://github.com/VikashRaj-cmd/stackforge)**
-> MEAN Stack | Angular 21 | MongoDB Atlas | JWT | Role-Based Access Control
-
-- Jira-inspired bug and issue tracker built with Angular 21, Node.js, Express, MongoDB Atlas
-- JWT auth, role-based route protection, pagination, filtering, centralized error handling
-- Modular MVC backend architecture for scalable project collaboration
-
-### **[Mausam — Weather Forecasting App](https://github.com/VikashRaj-cmd/Flutter-App/tree/main/Mausam)**
-> Flutter | Dart | OpenWeather API | Cross-Platform Mobile
-
-- Cross-platform mobile app with real-time weather via OpenWeather API
-- JSON parsing, location services, API retry logic, state management, error handling
-- Responsive UI across Android and iOS with clean architecture
-
-### **[Personal Portfolio](https://vikash-portfolio0.netlify.app/)**
-> React.js | Tailwind CSS | Framer Motion | Netlify
-
-- Fully responsive portfolio deployed on Netlify with smooth animations
-
----
-
 ## 📚 Education
 
 <table>
